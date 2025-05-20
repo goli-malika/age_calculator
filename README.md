@@ -1,16 +1,22 @@
-### Hello 👋 I'm Goli Malika
+# Age Calculator 🧮
 
-I'm a B.Tech student with a deep interest in programming, AI, and real-world tech solutions.  
-I enjoy exploring new technologies and turning ideas into working projects.
+This is a simple Python project that calculates a person's age based on the birth year they enter.
 
-🛠️ Skills: Python | Java | C | HTML/CSS | IoT | Git
+## 📋 Features
+- Takes input from the user
+- Calculates current age
+- Categorizes as Minor / Adult / Senior
 
-📌 Projects:
-- **Digital Harassment Detection** – Detects and flags offensive content on social platforms.
-- **Autonomous Vehicle Control** – Simulates logic for self-driving systems.
+## 🛠️ How to Run
+1. Install Python if not already installed.
+2. Open terminal or command prompt.
+3. Run: `python age_calculator.py`
 
-🎓 Training & Certifications:
-- Python, Java, IoT, Cybersecurity – Industech Solutions  
-- Data Science & AIML – YBI Foundations  
-- Responsive Web Design – FreeCodeCamp  
-- Technical English – NPTEL (Elite Certificate)
+## 🚀 Future Improvements
+- Add date of birth (not just year)
+- GUI version using Tkinter
+- Web version using Flask
+
+---
+
+Made for learning and practice 📘
